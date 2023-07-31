@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Art Gallery</string>
+    <string name="arona">Arona</string>
+    <string name="arona_desc">smiling</string>
+    <string name="arona_smiling">Arona</string>
+    <string name="arona_smiling_desc">Arona smiling when take out of your pyroxene</string>
+    <string name="shiroko">Shiroko</string>
+    <string name="shiroko_desc">from Abydos school</string>
+    <string name="hifumi">Hifumi</string>
+    <string name="hifumi_desc">from Trinity school</string>
 </resources>
